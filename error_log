@@ -1,0 +1,12 @@
+[07-Nov-2024 20:27:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xnrafbmy/public_html/cimelta-madagascar/wp-content/themes/cimelta-theme/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/xnrafbmy/public_html/cimelta-madagascar/wp-content/themes/cimelta-theme/404.php on line 8
+[08-Nov-2024 17:11:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xnrafbmy/public_html/cimelta-madagascar/wp-content/themes/cimelta-theme/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/xnrafbmy/public_html/cimelta-madagascar/wp-content/themes/cimelta-theme/404.php on line 8
+[08-Nov-2024 17:11:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xnrafbmy/public_html/cimelta-madagascar/wp-content/themes/cimelta-theme/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/xnrafbmy/public_html/cimelta-madagascar/wp-content/themes/cimelta-theme/404.php on line 8
